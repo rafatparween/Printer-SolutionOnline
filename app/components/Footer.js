@@ -80,7 +80,7 @@ const Footer = () => {
                 <span className="text-gray-400 leading-10">© Copyright, All Rights Reserved by printeasysolution</span>
             </div>
         </footer>
-    );
+    )
 };
 
 export default Footer;
